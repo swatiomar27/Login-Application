@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LoginApplication</string>
+    <string name="password_mismatch">Password not matching the expected criteria</string>
+    <string name="enter_proper_user_name">Enter proper user name</string>
+    <string name="login">Login</string>
+    <string name="successfully_log_in">Successfully logged in</string>
+    <string name="hello">Hello %1$s</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+</resources>
